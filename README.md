@@ -1,7 +1,7 @@
 # LP5DPBO2024C1
 
 # Janji
-Saya Muhamad Furqon Al-Haqqi NIM 2207207 mengerjakan LP4 dalam mata kuliah DPBO
+Saya Muhamad Furqon Al-Haqqi NIM 2207207 mengerjakan LP5 dalam mata kuliah DPBO
 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program
@@ -17,3 +17,4 @@ Pada kelas Mahasiswa terdapat 4 atribut yaitu NIM, Nama, Jenis Kelamin, dan juga
 6. Tombol cancel akan selalu mengosongkan input form.
 
 # Dokumentasi
+https://github.com/FRQNC/LP5DPBO2024C1/assets/53359844/b4b37572-b0c9-4efb-a3f9-9d82bfdaebf5
