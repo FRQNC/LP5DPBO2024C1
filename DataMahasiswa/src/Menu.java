@@ -228,6 +228,7 @@ public class Menu extends JFrame{
         nimField.setText("");
         namaField.setText("");
         jenisKelaminComboBox.setSelectedItem("");
+        golonganUKTComboBox.setSelectedItem("");
 
         // ubah button "Update" menjadi "Add"
         addUpdateButton.setText("Add");
